@@ -17,8 +17,6 @@
 ## 💻 THIAGGO SYSTEM v1.0
 ---
 
-# 💻 THIAGGO SYSTEM v1.0
-
 ```text
 ╭────────────────────────────╮
 │     THIAGGO SYSTEM v1.0    │
