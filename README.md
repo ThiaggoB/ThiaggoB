@@ -1,13 +1,20 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Thiaggo Bueno
+<div align="center">
 
-### Software Engineering Student • Backend Developer (Java)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:238636&text=THIAGGO%20BUENO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Building+Backend+Applications;Learning+Java+and+Spring+Boot;Always+Improving..." />
+### 👋 Olá, eu sou o Thiaggo Bueno
+
+**Software Engineering Student • Backend Developer (Java)**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+Backend+Applications;Learning+Java+and+Software+Engineering;Building+Projects+and+Improving+Every+Day" />
 
 </div>
 
+---
+
+## 💻 THIAGGO SYSTEM v1.0
 ---
 
 # 💻 THIAGGO SYSTEM v1.0
