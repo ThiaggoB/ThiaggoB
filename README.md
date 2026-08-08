@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:238636&text=THIAGGO%20BUENO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0d1117,50:161b22,100:238636&text=THIAGGO%20BUENO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 ### 👋 Olá, eu sou o Thiaggo Bueno
 
@@ -27,7 +27,7 @@ Initializing...
 ████████████████████ 100%
 
 ✔ Backend Developer
-✔ Java Specialist (In Progress)
+✔ Java Developer
 ✔ Software Engineering Student
 ✔ Open to Internship
 
