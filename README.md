@@ -55,7 +55,6 @@ public class Thiaggo {
     private final List<String> backend = List.of(
             "Java",
             "Spring Boot",
-            "Python"
     );
 
     private final List<String> database = List.of(
@@ -82,7 +81,7 @@ public class Thiaggo {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,git,github,docker,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,docker,vscode,idea" />
 
 </p>
 
