@@ -85,13 +85,13 @@ public class Thiaggo {
 
 # 📚 Atualmente estudando
 
-| Tecnologia | Progresso |
+| Technology | Progress |
 |------------|-----------|
-| Java | ██████████ 100% |
-| POO | ██████████ 100% |
-| Estruturas de Dados | ████████░░ 80% |
-| Spring Boot | ██████░░░░ 60% |
-| Docker | ████░░░░░░ 40% |
+| ☕ Java | ████████░░ 80% |
+| 🧩 Object-Oriented Programming | ██████████ 100% |
+| 📖 Data Structures | ███░░░░░░ 30% |
+| 🌱 Spring Boot | ░░░░░░░░░░ 0% |
+| 🐳 Docker | ░░░░░░░░░░ 0% |
 
 ---
 
